@@ -1,6 +1,6 @@
 import os
 import zipfile
-from PyPDF2 import PdfMerger
+from PyPDF2 import PdfMerger # type: ignore
 import tempfile
 import sys
 
