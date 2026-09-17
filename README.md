@@ -21,7 +21,7 @@
 ## 🎬 See it
 
 <table><tr>
-<td width="50%"><img src="docs/assets/gui.png" alt="PDFCompilerGUI window: ZIP File field with Browse button, Output PDF Name field, Compile PDF button"><br><sub>The GUI — <code>PDFCompilerGUI.py</code> (recreated from the actual Tkinter layout; automated desktop capture wasn't safe to run in this environment)</sub></td>
+<td width="50%"><img src="docs/assets/gui.png" alt="Layout diagram of PDFCompilerGUI: ZIP File field with Browse, Output PDF Name, Compile PDF"><br><sub>GUI layout diagram — drawn from <code>PDFCompilerGUI.py</code>, not a live window capture. The CLI shot on the right is the real program.</sub></td>
 <td width="50%"><img src="docs/assets/cli.png" alt="Terminal running PDFCompiler.exe against a zip of scanned pages"><br><sub>The CLI — <code>PDFCompiler.py</code> / <code>PDFCompiler.exe</code></sub></td>
 </tr></table>
 
